@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nedum-dev
 - 👀 I’m interested in js,afrobeats
 - 🌱 I’m currently learning vue
-- 💞️ I’m looking to collaborate on fellow frontend devs 
+- 💞️ I’m looking to collaborate with fellow frontend devs 
